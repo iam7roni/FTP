@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FtpServer.Client" Collapsed="true">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAIQAAAAAAAAAAAAAAAAAACAAAhAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.FileHelpers" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAhAAAAAEAAAAABAAGAAAA=</HashCode>
+      <FileName>FileHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.FtpCommand" Collapsed="true">
+    <Position X="12.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAIAAAAAAAAAAAAAABAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FtpCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.FtpReplySocket" Collapsed="true">
+    <Position X="15.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAEAAAAAAFAAAAAIAAAAAAAQAAAAAACAAAA=</HashCode>
+      <FileName>FtpReplySocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.CwdCommandHandler" Collapsed="true">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\CwdCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.DeleCommandHandler" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\DeleCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.FTPCommandHandler" Collapsed="true">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAQCAAAAAAAABAAiAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\FTPCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.GetRootDirCommandHandler" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\GetRootDirCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.ListCommandHandler" Collapsed="true">
+    <Position X="15.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\ListCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.PasswordCommandHandler" Collapsed="true">
+    <Position X="14" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\PasswordCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.PasvCommandHandler" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAIAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\PasvCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.PwdCommandHandler" Collapsed="true">
+    <Position X="10.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\PwdCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.QuitCommandHandler" Collapsed="true">
+    <Position X="15.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\QuitCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.RemoveDirectoryCommandHandler" Collapsed="true">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\RemoveDirectoryCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.RetrCommandHandler" Collapsed="true">
+    <Position X="14" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\RetrCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.StoreCommandHandler" Collapsed="true">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\StoreCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.UserCommandHandler" Collapsed="true">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\UserCommandHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.Program" Collapsed="true">
+    <Position X="10.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.ServerControl" Collapsed="true">
+    <Position X="14" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAIAAAAACAAAEAAAAAAAAAKAAAAEAAAAAAAACAAg=</HashCode>
+      <FileName>ServerControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.ServerForm" Collapsed="true">
+    <Position X="14" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAAACAAABAMAACAMAAiAAAAAQAAESAgAAIBBAI=</HashCode>
+      <FileName>ServerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.SocketHelpers" Collapsed="true">
+    <Position X="12.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAAAACAAIA=</HashCode>
+      <FileName>SocketHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.Properties.Resources" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FtpServer.Properties.Settings" Collapsed="true">
+    <Position X="10.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FTP Server">
+</Property><Property Name="Solution File" Value="C:\Users\owner\Desktop\FTP Server\FTP Server.sln">
+</Property><Property Name="Date" Value="יום שלישי 18 מרץ 2014">
+</Property><Property Name="Time" Value="16:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FTP Server.sln" Description="File successfully backed up as C:\Users\owner\Desktop\FTP Server\Backup\FTP Server.sln">
+</Event><Event ErrorLevel="0" Project="FTP Server" Source="FTP Server.csproj" Description="Project file successfully backed up as C:\Users\owner\Desktop\FTP Server\Backup\FTP Server.csproj">
+</Event><Event ErrorLevel="0" Project="FTP Server" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\owner\Desktop\FTP Server\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FTP Server" Source="Console.cs" Description="File successfully backed up as C:\Users\owner\Desktop\FTP Server\Backup\Console.cs">
+</Event><Event ErrorLevel="0" Project="FTP Server" Source="FTPServer.cs" Description="File successfully backed up as C:\Users\owner\Desktop\FTP Server\Backup\FTPServer.cs">
+</Event><Event ErrorLevel="0" Project="FTP Server" Source="Session.cs" Description="File successfully backed up as C:\Users\owner\Desktop\FTP Server\Backup\Session.cs">
+</Event><Event ErrorLevel="0" Project="FTP Server" Source="FTP Server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FTP Server" Source="FTP Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FTP Server.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FTP Server.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FTP Server" Source="FTP Server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

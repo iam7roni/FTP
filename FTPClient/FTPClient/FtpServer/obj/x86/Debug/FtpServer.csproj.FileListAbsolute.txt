@@ -1,0 +1,58 @@
+D:\FTPClient\FtpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FTPClient\FtpServer\obj\x86\Debug\FtpServer.ServerForm.resources
+D:\FTPClient\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+D:\FTPClient\FtpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FTPClient\FtpServer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FTPClient\FtpServer\bin\Debug\FtpServer.exe
+D:\FTPClient\FtpServer\bin\Debug\FtpServer.pdb
+D:\FTPClient\FtpServer\obj\x86\Debug\FtpServer.exe
+D:\FTPClient\FtpServer\obj\x86\Debug\FtpServer.pdb
+C:\Users\owner\Desktop\FTPClient\FtpServer\bin\Debug\FtpServer.exe
+C:\Users\owner\Desktop\FTPClient\FtpServer\bin\Debug\FtpServer.pdb
+C:\Users\owner\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.ServerForm.resources
+C:\Users\owner\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+C:\Users\owner\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.exe
+C:\Users\owner\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.pdb
+C:\Documents and Settings\Admin\Desktop\FTPClient\FtpServer\bin\Debug\FtpServer.exe
+C:\Documents and Settings\Admin\Desktop\FTPClient\FtpServer\bin\Debug\FtpServer.pdb
+C:\Documents and Settings\Admin\Desktop\FTPClient\FtpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.ServerForm.resources
+C:\Documents and Settings\Admin\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+C:\Documents and Settings\Admin\Desktop\FTPClient\FtpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Desktop\FTPClient\FtpServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.exe
+C:\Documents and Settings\Admin\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.pdb
+I:\אופציות\FTPClient\FtpServer\obj\x86\Debug\FtpServer.exe
+I:\אופציות\FTPClient\FtpServer\obj\x86\Debug\FtpServer.pdb
+E:\אופציות\FTPClient\FtpServer\obj\x86\Debug\FtpServer.exe
+E:\אופציות\FTPClient\FtpServer\obj\x86\Debug\FtpServer.pdb
+E:\אופציות\FTPClient\FtpServer\bin\Debug\FtpServer.exe
+E:\אופציות\FTPClient\FtpServer\bin\Debug\FtpServer.pdb
+E:\אופציות\FTPClient\FtpServer\obj\x86\Debug\FtpServer.ServerForm.resources
+E:\אופציות\FTPClient\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+E:\אופציות\FTPClient\FtpServer\obj\x86\Debug\FtpServer.csproj.GenerateResource.Cache
+C:\Users\student12\Desktop\FTPClient\FtpServer\bin\Debug\FtpServer.exe
+C:\Users\student12\Desktop\FTPClient\FtpServer\bin\Debug\FtpServer.pdb
+C:\Users\student12\Desktop\FTPClient\FtpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student12\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.ServerForm.resources
+C:\Users\student12\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+C:\Users\student12\Desktop\FTPClient\FtpServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\student12\Desktop\FTPClient\FtpServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student12\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.exe
+C:\Users\student12\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.pdb
+C:\Users\dell\Desktop\FTPClient\FtpServer\bin\Debug\FtpServer.exe
+C:\Users\dell\Desktop\FTPClient\FtpServer\bin\Debug\FtpServer.pdb
+C:\Users\dell\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.ServerForm.resources
+C:\Users\dell\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+C:\Users\dell\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.exe
+C:\Users\dell\Desktop\FTPClient\FtpServer\obj\x86\Debug\FtpServer.pdb
+C:\Users\owner\Desktop\הפרויקט !\FTPClient\FTPClient\FtpServer\bin\Debug\FtpServer.exe
+C:\Users\owner\Desktop\הפרויקט !\FTPClient\FTPClient\FtpServer\bin\Debug\FtpServer.pdb
+C:\Users\owner\Desktop\הפרויקט !\FTPClient\FTPClient\FtpServer\obj\x86\Debug\FtpServer.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\הפרויקט !\FTPClient\FTPClient\FtpServer\obj\x86\Debug\FtpServer.ServerForm.resources
+C:\Users\owner\Desktop\הפרויקט !\FTPClient\FTPClient\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+C:\Users\owner\Desktop\הפרויקט !\FTPClient\FTPClient\FtpServer\obj\x86\Debug\FtpServer.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\הפרויקט !\FTPClient\FTPClient\FtpServer\obj\x86\Debug\FtpServer.exe
+C:\Users\owner\Desktop\הפרויקט !\FTPClient\FTPClient\FtpServer\obj\x86\Debug\FtpServer.pdb
